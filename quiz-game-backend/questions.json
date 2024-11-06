@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1727345967956",
+    "pregunta": "Quina marca de cotxes utilitza el lema 'Ultimate Driving Machine'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "BMW"
+      },
+      {
+        "id": 2,
+        "etiqueta": "Mercedes-Benz"
+      },
+      {
+        "id": 3,
+        "etiqueta": "Audi"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Lexus"
+      }
+    ],
+    "resposta_correcta": 1,
+    "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/2048px-BMW.svg.png"
+  },
+  {
+    "id": "1727345997890",
+    "pregunta": "Quin gegant tecnològic té com a eslògan 'Think Different'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Microsoft"
+      },
+      {
+        "id": 2,
+        "etiqueta": "Apple"
+      },
+      {
+        "id": 3,
+        "etiqueta": "Google"
+      },
+      {
+        "id": 4,
+        "etiqueta": "IBM"
+      }
+    ],
+    "resposta_correcta": 2,
+    "imatge": "https://e7.pngegg.com/pngimages/980/413/png-clipart-apple-logo-business-iphone-apple-heart-computer.png"
+  },
+  {
+    "id": "1727346009870",
+    "pregunta": "Quina marca de refrescos té com a eslògan 'Open Happiness'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Pepsi"
+      },
+      {
+        "id": 2,
+        "etiqueta": "Fanta"
+      },
+      {
+        "id": 3,
+        "etiqueta": "Coca-Cola"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Sprite"
+      }
+    ],
+    "resposta_correcta": 3,
+    "imatge": "https://e7.pngegg.com/pngimages/96/277/png-clipart-coca-cola-logo-coca-cola-circle-logo-food-coca-cola-thumbnail.png"
+  },
+  {
+    "id": "1727346025794",
+    "pregunta": "Quina marca esportiva utilitza l'eslògan 'Just Do It'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Adidas"
+      },
+      {
+        "id": 2,
+        "etiqueta": "Puma"
+      },
+      {
+        "id": 3,
+        "etiqueta": "Reebok"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Nike"
+      }
+    ],
+    "resposta_correcta": 4,
+    "imatge": "https://e7.pngegg.com/pngimages/838/890/png-clipart-swoosh-air-force-nike-free-nike-air-max-nike-angle-text.png"
+  },
+  {
+    "id": "1727346035935",
+    "pregunta": "Quina cadena de menjar ràpid utilitza l'eslògan 'I'm Lovin' It'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Burger King"
+      },
+      {
+        "id": 2,
+        "etiqueta": "KFC"
+      },
+      {
+        "id": 3,
+        "etiqueta": "McDonald's"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Wendy's"
+      }
+    ],
+    "resposta_correcta": 3,
+    "imatge": "https://e7.pngegg.com/pngimages/676/74/png-clipart-fast-food-mcdonald-s-logo-golden-arches-restaurant-mcdonalds-mcdonald-s-logo-miscellaneous-food-thumbnail.png"
+  },
+  {
+    "id": "1727346047533",
+    "pregunta": "Quina marca de joieria té com a eslògan 'A Diamond is Forever'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Tiffany & Co."
+      },
+      {
+        "id": 2,
+        "etiqueta": "Cartier"
+      },
+      {
+        "id": 3,
+        "etiqueta": "De Beers"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Pandora"
+      }
+    ],
+    "resposta_correcta": 3,
+    "imatge": "https://1000marcas.net/wp-content/uploads/2021/05/De-Beers-Logo.jpg"
+  },
+  {
+    "id": "1727346066932",
+    "pregunta": "Quina marca de cervesa utilitza l'eslògan 'Probably the Best Beer in the World'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Heineken"
+      },
+      {
+        "id": 2,
+        "etiqueta": "Carlsberg"
+      },
+      {
+        "id": 3,
+        "etiqueta": "Guinness"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Corona"
+      }
+    ],
+    "resposta_correcta": 2,
+    "imatge": "https://w7.pngwing.com/pngs/802/95/png-transparent-carlsberg-group-heineken-international-beer-brewery-drink-beer-text-logo-group.png"
+  },
+  {
+    "id": "1727346076699",
+    "pregunta": "Quina marca de cosmètics utilitza l'eslògan 'Because You're Worth It'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Maybelline"
+      },
+      {
+        "id": 2,
+        "etiqueta": "L'Oréal"
+      },
+      {
+        "id": 3,
+        "etiqueta": "Revlon"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Estée Lauder"
+      }
+    ],
+    "resposta_correcta": 2,
+    "imatge": "https://w7.pngwing.com/pngs/858/575/png-transparent-boutique-l-oreal-paris-l-oreal-professionnel-redken-lion-lion-watercolor-paris.png"
+  },
+  {
+    "id": "1727346086941",
+    "pregunta": "Quina marca de targetes de crèdit utilitza l'eslògan 'There Are Some Things Money Can't Buy. For Everything Else, There's...'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Visa"
+      },
+      {
+        "id": 2,
+        "etiqueta": "American Express"
+      },
+      {
+        "id": 3,
+        "etiqueta": "MasterCard"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Discover"
+      }
+    ],
+    "resposta_correcta": 3,
+    "imatge": "https://e7.pngegg.com/pngimages/910/492/png-clipart-mastercard-logo-credit-card-visa-brand-mastercard-text-label.png"
+  },
+  {
+    "id": "1727346096389",
+    "pregunta": "Quina marca de rellotges utilitza l'eslògan 'Success. It's a Mind Game'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Rolex"
+      },
+      {
+        "id": 2,
+        "etiqueta": "Omega"
+      },
+      {
+        "id": 3,
+        "etiqueta": "Tag Heuer"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Breitling"
+      }
+    ],
+    "resposta_correcta": 3,
+    "imatge": "https://w7.pngwing.com/pngs/725/955/png-transparent-tag-heuer-watch-logo-brand-milk-daddy-angle-emblem-text-thumbnail.png"
+  }
+]
